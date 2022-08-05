@@ -1,0 +1,19 @@
+.photoProphete{
+    left: 0;
+    right: 0;
+    top: 0;
+    
+}
+.photocontainer{
+    height: 100%;
+    display: block;
+}
+.photoProphete > img{
+    width: 100%;
+    top: 0px;
+    height: 10%;
+    margin-bottom: 20px;
+}
+.photocontainer > h4{
+    margin-top: 100px;
+}
